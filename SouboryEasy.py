@@ -1,0 +1,5 @@
+f = open('JapaneseQuotes.txt', encoding='utf8')
+f = open('Sazka.txt', encoding='utf8')
+# f = open('D:\Downloads\IoankaKravicka.txt', encoding='utf8')
+print(f.read())
+f.close()
