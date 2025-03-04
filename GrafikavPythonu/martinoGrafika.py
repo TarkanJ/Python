@@ -1,13 +1,6 @@
 #!/usr/bin/env python3
 
 """
-ZetCode Tkinter tutorial
-
-The example draws lines on the Canvas.
-
-Author: Jan Bodnar
-Website: www.zetcode.com
-
 upravil @Martino, november 2023
 """
 
