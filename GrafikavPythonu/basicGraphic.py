@@ -1,14 +1,5 @@
 #!/usr/bin/env python3
 
-"""
-ZetCode Tkinter tutorial
-
-The example draws lines on the Canvas.
-
-Author: Jan Bodnar
-Website: www.zetcode.com
-"""
-
 from tkinter import Tk, Canvas, Frame, BOTH
 
 class Example(Frame):
