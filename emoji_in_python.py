@@ -3,7 +3,7 @@
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
-# created @Ing.Martino,february import emoji
+# created @Ing.Martino :) february import emoji
 
 # import emoji module for Python
 # pokud neni -> apt-get install pip -> pip install emoji

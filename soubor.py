@@ -12,6 +12,6 @@ def count_rows_and_words(filename):
         return n_rows, n_words
 
 count_rows_and_words('Sazka.txt')
-# count_rows_and_words('/home/jojovaio/Dokumenty/fbfriends/fb_cervenec2023.txt')
+# count_rows_and_words('~/Dokumenty/Stažené/cervenec2023.txt')
 
 print("od zacatku")
