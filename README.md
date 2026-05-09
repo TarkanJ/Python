@@ -1,4 +1,4 @@
 # Python
 Repository for Python experiments
 
-- 👋Hi dear programmer, enjoy here a few Python scrips👀
+👋 Hi dear Python-programmer, 👀enjoy happily here a few Python scripts...
