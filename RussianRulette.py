@@ -15,6 +15,6 @@ else:
 # print("\n Deleting C:\Windows\System32 in progress...")
 
 # bacha na to, co to dělá!!!
-# OPRAVDU TO FUNGUJE !!1
+# OPRAVDU TO FUNGUJE !!! 💩
 # os.remove("C:\Windows\System32")
 # os.remove("D:\Downloads\IoankaKravicka.txt")
